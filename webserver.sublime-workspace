@@ -1,0 +1,1178 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test",
+				"test2"
+			],
+			[
+				"get",
+				"getkind"
+			],
+			[
+				"Print",
+				"Println"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"font",
+				"fontSize	Style CSS"
+			],
+			[
+				"cl",
+				"className	Element"
+			],
+			[
+				"colum",
+				"column"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"crea",
+				"created_at"
+			],
+			[
+				"sor",
+				"sortable"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"permit",
+				"permit_params"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pDD",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"close",
+				"close()	Document"
+			],
+			[
+				"height",
+				"height = ''	Style CSS"
+			],
+			[
+				"getEl",
+				"getElementById(id)	Element"
+			],
+			[
+				"doc",
+				"document.getElementById(id)	Document"
+			],
+			[
+				"docum",
+				"document.forms	Document"
+			],
+			[
+				"admin",
+				"admin_login_path"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"admi",
+				"admin_posts_path"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"categor",
+				"categories"
+			],
+			[
+				"catego",
+				"categories"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"S",
+				"sans-serif"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"getE",
+				"getElementById(id)	Element"
+			],
+			[
+				"bt",
+				"bs3-table	bs3-table"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"passwor",
+				"password_salt"
+			],
+			[
+				"En",
+				"Engine"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"pSS",
+				"password_confirmation"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"adm",
+				"admin_posts_path"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bs",
+				"bs3-table	bs3-table"
+			],
+			[
+				"s",
+				"src	Attr"
+			],
+			[
+				"ho",
+				"houseoftreasures"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"loc",
+				"localhost"
+			],
+			[
+				"Category",
+				"Category"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"gr",
+				"grossPay"
+			],
+			[
+				"re",
+				"regularPay"
+			],
+			[
+				"pa",
+				"payDay"
+			],
+			[
+				"gro",
+				"grossPay"
+			],
+			[
+				"gross",
+				"grossPay"
+			],
+			[
+				"regula",
+				"regularPay"
+			],
+			[
+				"Te",
+				"Twelfth"
+			],
+			[
+				"amou",
+				"amount1"
+			],
+			[
+				"am",
+				"amount1"
+			],
+			[
+				"q",
+				"quantity5"
+			],
+			[
+				"qu",
+				"quantity1"
+			],
+			[
+				"qua",
+				"quantity4"
+			],
+			[
+				"amoutn",
+				"amount5"
+			],
+			[
+				"amo",
+				"amount3"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"fi",
+				"toFixed"
+			],
+			[
+				"r",
+				"regularPay2"
+			],
+			[
+				"reg",
+				"regularPay1"
+			],
+			[
+				"time",
+				"time6"
+			],
+			[
+				"tim",
+				"time6"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"te",
+				"test2"
+			],
+			[
+				"e",
+				"extraPay"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"p",
+				"product"
+			],
+			[
+				"pi",
+				"publisher"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"cA",
+				"categories"
+			],
+			[
+				"pu",
+				"publishers"
+			],
+			[
+				"asse",
+				"assert_select"
+			],
+			[
+				"bas",
+				"base_title"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"child",
+				"childsInput"
+			],
+			[
+				"faren",
+				"farenheit"
+			],
+			[
+				"pLINDROME",
+				"palindrome"
+			],
+			[
+				"cred",
+				"creditExceeded"
+			],
+			[
+				"cr",
+				"creditAvailable"
+			],
+			[
+				"auto",
+				"autofocus	Attr"
+			],
+			[
+				"num",
+				"numb2"
+			],
+			[
+				"fin",
+				"finSum"
+			],
+			[
+				"fina",
+				"finAvg"
+			],
+			[
+				"mi",
+				"midtermAverage"
+			],
+			[
+				"hom",
+				"homeworkAverage"
+			],
+			[
+				"m",
+				"myform"
+			],
+			[
+				"pars",
+				"parseFloat"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"en",
+				"english_number"
+			],
+			[
+				"nu",
+				"num_string"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"html",
+				"htmlOutput"
+			],
+			[
+				"htm",
+				"htmlOutput"
+			],
+			[
+				"n",
+				"number"
+			],
+			[
+				"ask",
+				"ask_recursively"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Founda",
+				"Snippet: ZURB Foundation 5 Offcanvas"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack i",
+				"Package Control: Install Package"
+			],
+			[
+				"githu",
+				"Github: Repository"
+			],
+			[
+				"pack ",
+				"Package Control: Install Package"
+			],
+			[
+				"intall p",
+				"Package Control: Install Package"
+			],
+			[
+				"package co",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"user ",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"console.log(\"hello\");",
+			"brew install node",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/delantebess/Desktop/go/src/markdown/main.go",
+		"/Users/delantebess/Desktop/go/src/fileserver/main.go",
+		"/Users/delantebess/Desktop/go/src/fileserver/public/markdown/main.go",
+		"/Users/delantebess/Desktop/go/src/fileserver/public/index.html",
+		"/Users/delantebess/Desktop/go/src/fileserver/public/markdown",
+		"/Users/delantebess/Desktop/go/src/interfaces_example/main.go",
+		"/Users/delantebess/Desktop/go/src/struct_example/main.go",
+		"/Users/delantebess/Desktop/go/src/pointer_example/main.go",
+		"/Users/delantebess/Desktop/go/src/github.com/dbess1/train1/test1.go",
+		"/Users/delantebess/Desktop/go/src/fileserver/index.html",
+		"/Users/delantebess/Desktop/go/src/fileserver/test1",
+		"/Users/delantebess/Desktop/go/src/github.com/julienschmidt/httprouter/router.go",
+		"/Users/delantebess/Google Drive/go/test1.go",
+		"/Users/delantebess/gocode/bin/hello.go",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/views/layouts/application.html.erb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/helpers/application_helper.rb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/views/pages/blog.html.erb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/views/pages/about.html.erb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/test/controllers/pages_controller_test.rb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/views/pages/contact.html.erb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/views/pages/testimonials.html.erb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/views/pages/portfolio.html.erb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/views/pages/home.html.erb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/assets/stylesheets/application.css",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/helpers/pages_helper.rb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/assets/stylesheets/bootstrap.css",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/assets/stylesheets/bootstrap.min.css",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/assets/stylesheets/font-awesome.min.css",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/assets/stylesheets/freelancer.css",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/assets/stylesheets/pages.scss",
+		"/Users/delantebess/Google Drive/workspace/portfolio/config/routes.rb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/Gemfile",
+		"/Users/delantebess/Google Drive/portfolio/style.css",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/assets/stylesheets/font-awesome.css",
+		"/Users/delantebess/Google Drive/workspace/portfolio/public/assets/.sprockets-manifest-8705bb7fb78ac9acfea154b94916e0f4.json",
+		"/Users/delantebess/Google Drive/workspace/portfolio/config/environments/production.rb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/config/environment.rb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/assets/stylesheets/custom.css.scss",
+		"/Users/delantebess/Google Drive/workspace/portfolio/test/test_helper.rb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/config/initializers/backtrace_silencers.rb",
+		"/Users/delantebess/Google Drive/workspace/portfolio/Guardfile",
+		"/Users/delantebess/Google Drive/workspace/portfolio/.gitignore",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/assets/stylesheets/custon.css.scss",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/assets/images/phones.png",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/assets/images/ipad.png",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/assets/images/intro-bg.jpg",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/assets/images/dog.png",
+		"/Users/delantebess/Google Drive/workspace/portfolio/app/assets/images/banner-bg.jpg",
+		"/Users/delantebess/Google Drive/portfolio/weather_app/weather2.js",
+		"/Users/delantebess/Google Drive/portfolio/weather_app/weather.js",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw7_133_index.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw7/hw7_133_p1.js",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw7/hw7_133_p1.html",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/views/contacts/new.html.erb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/views/about/index.html.erb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/views/layouts/application.html.erb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/views/posts/index.html.erb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/views/posts/show.html.erb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/assets/stylesheets/main.css.scss",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/assets/stylesheets/application.css.scss",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/controllers/admin/application_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/controllers/admin/categories_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/controllers/admin/comments_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/controllers/admin/posts_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/controllers/admin/sessions_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/controllers/admin/users_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/controllers/about_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/controllers/application_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/controllers/categories_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/controllers/comments_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/controllers/contacts_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/controllers/posts_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/views/layouts/admin/application.html.erb",
+		"/Users/delantebess/Google Drive/workspace/bloggin/bloggin/app/views/layouts/admin/login.html.erb",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw7/hw7_133_p3.js",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw7/hw7_133_p3.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw7/hw7_133_p3.css",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw7/hw7_133_p2.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw7/style1.css",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw7/hw7_133_p2.js",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw7/hotspot.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw7/hw7_133_p1.css",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw5/hw5_133_p1.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw6/hw6_133_p2.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw6/hw6_133_p3.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw6/hw6_133_p4.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit133/pages/hw6/hw6_133_p1.html",
+		"/Users/delantebess/Google Drive/workspace/railscms/app/views/layouts/application.html.erb",
+		"/Users/delantebess/Google Drive/workspace/railscms/app/controllers/pages_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/railscms/app/controllers/home_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/railscms/app/controllers/application_controller.rb",
+		"/Users/delantebess/Google Drive/workspace/railscms/app/admin/page.rb",
+		"/Users/delantebess/Google Drive/workspace/railscms/app/views/home/show.html.erb",
+		"/Users/delantebess/Google Drive/workspace/railscms/app/views/pages/show.html.erb",
+		"/Users/delantebess/Google Drive/workspace/railscms/app/assets/stylesheets/main.css.scss",
+		"/Users/delantebess/Google Drive/workspace/railscms/app/assets/stylesheets/application.css.scss",
+		"/Users/delantebess/Google Drive/workspace/railscms/config/initializers/assets.rb",
+		"/Users/delantebess/Google Drive/workspace/railscms/Gemfile",
+		"/Users/delantebess/Google Drive/workspace/railscms/config/initializers/active_admin_editor.rb",
+		"/Users/delantebess/Google Drive/workspace/railscms/app/assets/stylesheets/application.css",
+		"/Users/delantebess/Google Drive/workspace/railscms/app/admin/block.rb",
+		"/Users/delantebess/Google Drive/workspace/railscms/app/admin/dashboard.rb",
+		"/Users/delantebess/Google Drive/workspace/railscms/db/migrate/20160501202135_add_order_to_blocks.rb",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/hw8/hw8b_132_index.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/hw8/hw8a_132_index.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/hw8/hw8b_132.php",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/index.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/hw8/hw8a_132.pl",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/hw8/hw8a_132_email.pl",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/hw8_132_index.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/hw8b_132.php",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/hw8b_132_index.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/hw2_132_index.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/hw8a_132_email.pl",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/hw8a_132.pl",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/hw8a_132_index.html",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/hw7_132.js",
+		"/Users/delantebess/Google Drive/ccsf/cnit132/pages/hw7_132_index.html",
+		"/Users/delantebess/Google Drive/workspace/item_cart/config/routes.rb",
+		"/Users/delantebess/Google Drive/workspace/item_cart/app/views/site/index.html.erb",
+		"/Users/delantebess/Google Drive/workspace/item_cart/app/assets/javascripts/components/_main.js.jsx",
+		"/Users/delantebess/Google Drive/workspace/item_cart/app/assets/javascripts/components/_header.js.jsx",
+		"/Users/delantebess/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/Default (OSX).sublime-keymap",
+		"/Users/delantebess/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/Users/delantebess/Library/Application Support/Sublime Text 3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/Users/delantebess/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/delantebess/Google Drive/workspace/item_cart/Gemfile",
+		"/Users/delantebess/Google Drive/workspace/item_cart/app/controllers/site_controller.rb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"profile",
+			"images",
+			"Delante's Portfolio",
+			"assets/",
+			"fontawesome-webfont.ttf",
+			"fontawesome",
+			"config.action_controller.",
+			"config.action_controller.relative_url_root",
+			"action_controller.",
+			"action_controller.relative",
+			"action_controller.",
+			"action_controller.r",
+			"action_controller.relative_url_root",
+			"fontawesome",
+			"FontAwesome",
+			"fontawesome",
+			"font-a",
+			"font",
+			"image",
+			"profile",
+			"start bo",
+			"../images/",
+			"profile",
+			"url",
+			"profile",
+			"| ",
+			"base_title",
+			"Delante's Portfolio",
+			"end",
+			":first-child",
+			"::first-child",
+			":first-child",
+			".float",
+			".floati",
+			".floating",
+			".floating-",
+			".floating-label",
+			".floating-label-form-group",
+			".floating-label-form-group::not(:first-child)",
+			"form-group",
+			":first-child",
+			"=======\n      assert_select \"title\", \"Testimonials | #(base_title)\"\n    >>>>>>> static-pages-exercises",
+			"    <<<<<<< HEAD",
+			"img/portfolio/",
+			"img",
+			"Admin login",
+			"admin",
+			"<script src=\"http://code.jquery.com/jquery-1.10.1.js\"></script>",
+			"regular link",
+			"Link",
+			"dropdown",
+			"bgChange",
+			"basicTable",
+			"background",
+			"content",
+			"style",
+			"originalBody",
+			"body",
+			"experience",
+			"experience1",
+			"hw6",
+			"block",
+			"blocks",
+			"block",
+			"jumbotron",
+			"all",
+			"you",
+			"checkbox",
+			"root",
+			"namespace",
+			"comment",
+			"adapter: mysql2",
+			"  username: railscms\n  password: railscms",
+			"railscms_development",
+			"search",
+			"sign",
+			"help",
+			"sign",
+			"btn",
+			"important",
+			"btn ",
+			"btn btn-lg",
+			"btn btn-lg btn-primary",
+			"sign",
+			"sign-up",
+			"navbar-form",
+			"search",
+			"Company",
+			"Comapany",
+			"Copyright",
+			"copyright",
+			"logo1.png",
+			"logo",
+			"natural",
+			"van",
+			"header",
+			"shop",
+			"search",
+			"carousel",
+			"car",
+			"cara",
+			"BrDNlhBQ",
+			"root",
+			"tea_time.jpeg",
+			"<",
+			"clock",
+			"img/camera-keys.jpg",
+			"header",
+			"true",
+			"Word",
+			"word",
+			"roundToNearestNumber",
+			"hw5",
+			"comment",
+			"original",
+			"Category",
+			"categories",
+			"Post",
+			"posts",
+			"centertext",
+			"0",
+			"total",
+			"duesf",
+			"newEntry",
+			"total",
+			"totalPayf",
+			"dues",
+			"&&"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"camera-keys1.jpg",
+			"phrase",
+			"retina",
+			"ranges",
+			"&& income",
+			"pulldownForms",
+			"mySites",
+			"user",
+			"me:</strong>",
+			"<strong>On",
+			"me: <br>",
+			"lyrics[i - j] + \"<br>\"",
+			"document.writeln",
+			"me:",
+			"amount",
+			"r",
+			"fullTime",
+			"regularPay",
+			"hw4/hw4",
+			"childsInput",
+			"secondNumber",
+			"firstNumber",
+			"farenheit",
+			"",
+			"creditAvailable",
+			"totalCredits",
+			"totalCharges",
+			"monthlyBalance",
+			"creditLimit",
+			"accountNumber",
+			"result",
+			"weeklyPay",
+			"totalItemsSold",
+			"totalAmountSold",
+			"sold4",
+			"sold3",
+			"sold2",
+			"sold1",
+			"total4",
+			"total3",
+			"total2",
+			"total1",
+			"item4",
+			"item3",
+			"item2",
+			"item1",
+			"<td><label for=\"num\">T",
+			"parseInt",
+			"hw3",
+			".history",
+			"history",
+			"write",
+			"num_string = num_string + '",
+			"left ==",
+			"left",
+			"productivity",
+			"timer",
+			"productivity",
+			"restart-button",
+			"lengthOfTime",
+			"Timer",
+			"clock-title",
+			"numbers",
+			"plus-timer",
+			"plus-break",
+			"#timer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "webserver.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"config",
+				"config/environment.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"font-awes",
+				"app/assets/stylesheets/font-awesome.min.css"
+			],
+			[
+				"font",
+				"app/assets/stylesheets/font-awesome.css"
+			],
+			[
+				"ont-awesome.",
+				"app/assets/stylesheets/font-awesome.css"
+			],
+			[
+				"home",
+				"app/views/pages/home.html.erb"
+			],
+			[
+				"asse",
+				"config/initializers/assets.rb"
+			],
+			[
+				"html",
+				"app/views/home/show.html.erb"
+			],
+			[
+				"index",
+				"doc/index.html"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"layo",
+				"bloggin/app/views/layouts/application.html.erb"
+			],
+			[
+				"co",
+				"contact.html"
+			],
+			[
+				"adi",
+				"admin/posts.html"
+			],
+			[
+				"a",
+				"about.html"
+			],
+			[
+				"user",
+				"admin/users.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"ca",
+				"admin/categories.html"
+			],
+			[
+				"ab",
+				"about.html"
+			],
+			[
+				"styl",
+				"css/style.css"
+			],
+			[
+				"use",
+				"admin/users.html"
+			],
+			[
+				"",
+				"admin/posts.html"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"config/r",
+				"config/routes.rb"
+			],
+			[
+				"micropost",
+				"~/Desktop/workspace/toy_app/app/models/micropost.rb"
+			],
+			[
+				"cont",
+				"~/Desktop/workspace/toy_app/app/controllers/users_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
